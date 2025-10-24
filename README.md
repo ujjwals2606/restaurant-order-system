@@ -1,5 +1,5 @@
 ﻿
- {"variant":"standard","title":"Restaurant Order System (Vue.js) README","id":"42910"}
+ 
 <h1 align="center">🍽️ Restaurant Order System</h1>
 
 <h3 align="center">A Modern, Fast & Interactive Food Ordering Platform Built with Vue.js</h3>
@@ -137,4 +137,5 @@ Contributions are welcome! 🎉
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=4FC08D&width=600&lines=Crafted+with+💚+by+Ujjwal+Singh;Professional+MERN+%2B+Vue+Developer;Building+delicious+digital+experiences!">
 </p>
+
 
